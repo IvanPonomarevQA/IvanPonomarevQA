@@ -1,3 +1,12 @@
+
+
+## Hello World!
+Quality Assurance AI Engineer, with experience in Technologies, QA-Automation and QA-Manual Software and Hardware Testing for Web, Cloud Based, Client/Server, Native Desktop and Mobile Applications.
+
+<code><img width="1%" src="https://github.com/user-attachments/assets/d8634330-234a-4e0e-b163-b8859a1b66bf"></code>
+_[🚀 My LinkedIn profile 🚀](https://linkedin.com/in/ivan-ponomarev-qa)_
+
+
 <details open>
   <summary><h2>🛠 My Skills</h2></summary>
   <p>
